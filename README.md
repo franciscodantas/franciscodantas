@@ -15,6 +15,9 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Chico-Js" height="30" width="90" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Chico-Python" height="30" width="90" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Chico-win" height="30" width="90" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img align="center" alt="Chico-ubuntu" height="30" width="90" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  
 </div>
   
 ------------------
@@ -28,3 +31,4 @@
   ![Snake animation](https://github.com/franciscodantas/franciscodantas/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+  <img align="right" alt="Chico-scooby" height="120" width="90" src="https://media.discordapp.net/attachments/788887657148186648/920414109168701510/scooby.gif">
