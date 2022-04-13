@@ -27,6 +27,7 @@
  	<a href="https://www.twitch.tv/chiccaun" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:franciscocontatopro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://steamcommunity.com/profiles/76561199071740650/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/franciscoantoniodantasdesousa/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/franciscodantas/franciscodantas/blob/output/github-contribution-grid-snake.svg)
   
