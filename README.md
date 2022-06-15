@@ -1,6 +1,5 @@
 ## Oi! Eu sou Francisco Antonio!
-
-- 🔭 Estou trabalhando atualmente como Mentor da Equipe **Robossauros** 
+ 
 - 🌱 Estou atualmente estudando **Ciências da Computação - UFCG**
 
 -----------------
