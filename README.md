@@ -1,7 +1,7 @@
 ## Oi! Eu sou Francisco Antonio!
  
 - 🏫 Estou atualmente estudando **Ciências da Computação - UFCG**
-- 👾 Estudando **HTML**
+- 👾 Estudando **ESTRUTURA DE DADOS**
 - 🏠 Sousa-PB / Campina Grande-PB 
 
 -----------------
