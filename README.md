@@ -6,26 +6,21 @@
 - 👾 Estudando **ESTRUTURA DE DADOS**
 - 🏠 Sousa-PB / Campina Grande-PB 
 
------------------
-
-
+<h2 align="center"> 📈 Github statistics </h3>
 <div align="center">
   <a href="https://github.com/franciscodantas">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=franciscodantas&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscodantas&layout=compact&langs_count=7&theme=transparent"/>
 </div>
-
-  <div style="display: inline_block"><br>
+  
+  <h2 align="center"> 💻 Linguagens </h3>
+ <div style="display: inline_block" align="center">
   <img align="center" alt="Chico-Js" height="30" width="90" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Chico-Python" height="30" width="90" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Chico-win" height="30" width="90" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img align="center" alt="Chico-ubuntu" height="30" width="90" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  </div>
   
-</div>
-  
-------------------
-  
-<div> 
+  <h2 align="center"> ✉ Contatos </h3>
+<div align="center"> 
   <a href="https://www.instagram.com/francisco_a.dantas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/chiccaun" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:franciscocontatopro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
