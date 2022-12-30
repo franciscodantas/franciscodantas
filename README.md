@@ -1,4 +1,6 @@
-## Oi! Eu sou Francisco Antonio!
+<h1 align="center">
+  <p> Oi! Eu sou Francisco Antonio! </p>
+</h1>
  
 - 🏫 Estou atualmente estudando **Ciências da Computação - UFCG**
 - 👾 Estudando **ESTRUTURA DE DADOS**
