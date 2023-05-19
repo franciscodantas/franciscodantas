@@ -3,7 +3,7 @@
 </h1>
  
 - 🏫 Estou atualmente estudando **Ciências da Computação - UFCG**
-- 👾 Estudando **ESTRUTURA DE DADOS**
+- 👾 Estudando **Banco de Dados**
 - 🏠 Sousa-PB / Campina Grande-PB 
 
 <h2 align="center"> 📈 Github statistics </h3>
