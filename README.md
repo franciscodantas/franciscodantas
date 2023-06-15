@@ -9,7 +9,6 @@
 <h2 align="center"> 📈 Github statistics </h3>
 <div align="center">
   <a href="https://github.com/franciscodantas">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=franciscodantas&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/> 
   <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscodantas&layout=compact&langs_count=7&theme=transparent"/>
 </div>
   
