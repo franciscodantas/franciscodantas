@@ -1,34 +1,42 @@
-<h1 align="center">
-  <p> Oi! Eu sou Francisco Antonio! </p>
-</h1>
- 
-- 🏫 Estou atualmente estudando **Ciências da Computação - UFCG**
-- 👾 Estudando **Banco de Dados**
-- 🏠 Sousa-PB / Campina Grande-PB 
+# Bem-vindo ao meu perfil no GitHub! 👋
 
-<h2 align="center"> 📈 Github statistics </h3>
-<div align="center">
-  <a href="https://github.com/franciscodantas">
-  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscodantas&layout=compact&langs_count=7&theme=transparent"/>
-</div>
-  
-  <h2 align="center"> 💻 Linguagens </h3>
- <div style="display: inline_block" align="center">
-  <img align="center" alt="Chico-JAVA" height="30" width="90" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-   <img align="center" alt="Chico-HTML" height="30" width="90" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-   <img align="center" alt="Chico-CSS" height="30" width="90" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Chico-Python" height="30" width="90" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  </div>
-  
-  <h2 align="center"> ✉ Contatos </h3>
-<div align="center"> 
-  <a href="https://www.instagram.com/francisco_a.dantas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/chiccaun" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:franciscocontatopro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://steamcommunity.com/profiles/76561199071740650/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/franciscoantoniodantasdesousa/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/franciscodantas/franciscodantas/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-  <img align="right" alt="Chico-scooby" height="120" width="90" src="https://media.discordapp.net/attachments/788887657148186648/920414109168701510/scooby.gif">
+## Sobre mim
+
+Olá, eu sou Francisco Dantas! Sou um entusiasta de programação e faço bacharelado em Ciências da Computação pela UFCG-PB. Aqui estão algumas das linguagens que eu tenho conhecimento:
+
+- Java ☕
+- Python 🐍
+- Prolog 🤖
+- Haskell λ
+
+Neste perfil, você encontrará uma variedade de projetos relacionados a essas linguagens, desenvolvimento de software e muito mais.
+
+## Projetos em Destaque
+
+Aqui estão alguns dos meus projetos em destaque:
+
+1. [Atividades de LP2](https://github.com/franciscodantas/Lab-Prog-2): Projetos desenvolvidos para estudo do paradigma Interativo com Java.
+
+2. [Atividades de LEDA](https://github.com/franciscodantas/Roteiros-LEDA): Roteiros desenvolvidos para aprendizagem sobre estrutura de dados.
+
+3. [Locadora PLP](https://github.com/franciscodantas/locadora-plp): Projeto desenvolvido para estudos sobre paradigma funcional e lógico.
+
+Fique à vontade para explorar os repositórios para encontrar mais projetos interessantes.
+
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=franciscodantas&show_icons=true&theme=radical)
+
+Aqui estão algumas estatísticas do meu GitHub. Você pode ver o meu envolvimento em projetos de código aberto, commits, pull requests e muito mais.
+
+## Entre em Contato
+
+Se você quiser entrar em contato comigo ou colaborar em algum projeto, fique à vontade para me encontrar nas seguintes redes:
+
+- [LinkedIn](https://br.linkedin.com/in/franciscoa-dantas)
+- [Email](mailto:franciscocontatopro@gmail.com)
+
+## Obrigado por visitar!
+
+Obrigado por explorar meu perfil no GitHub. Sinta-se à vontade para seguir, contribuir e entrar em contato. Vamos trabalhar juntos para construir um mundo de software melhor!
+
